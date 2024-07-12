@@ -12,6 +12,6 @@
 
 ### 7월(2024)
 1. [MarkDown, CLI, git(7월11일)](https://github.com/dh0728/TIL/blob/master/2024_7_11.md)
-2. [원격저장소, 연결법](https://github.com/dh0728/TIL/blob/master/2024_7_12.md)
+2. [원격저장소, 연결법(7월12일)](https://github.com/dh0728/TIL/blob/master/2024_7_12.md)
 
 

@@ -13,6 +13,7 @@
 ### 7월(2024)
 1. [MarkDown, CLI, git(7월11일)](https://github.com/dh0728/TIL/blob/master/2024_7/2024_7_11.md)
 2. [원격저장소, 연결법(7월12일)](https://github.com/dh0728/TIL/blob/master/2024_7/2024_7_12.md)
+3. [파이썬문법기초, 자료형(7월15일)](https://github.com/dh0728/TIL/blob/master/2024_7/2024_7_15.md)
 
 ### 구글링 팁
 
@@ -35,4 +36,3 @@
 ### 참고자료, 활용하기 좋은 곳
 - [파이썬강의자료](https://lab.ssafy.com/s12/python)
 - [파이썬튜터](https://pythontutor.com/)
-- [파이썬문법기초, 자료형](https://pythontutor.com/)

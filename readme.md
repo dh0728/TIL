@@ -35,3 +35,4 @@
 ### 참고자료, 활용하기 좋은 곳
 - [파이썬강의자료](https://lab.ssafy.com/s12/python)
 - [파이썬튜터](https://pythontutor.com/)
+- [파이썬문법기초, 자료형](https://pythontutor.com/)
